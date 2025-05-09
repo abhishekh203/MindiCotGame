@@ -123,7 +123,7 @@ The project is organized into the following main packages:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/mindicot-game.git
+    git clone https://github.com/abhishekh203/MindiCotGame
     ```
 2.  **Open in Android Studio:**
     * Open Android Studio (latest stable version recommended).
